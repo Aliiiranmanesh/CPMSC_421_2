@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.1.6",
+    "swagger-jsdoc": "^1.10.3",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "name": "iranmaneshali_421",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aliiiranmanesh/IranmaneshAli_421.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aliiiranmanesh/IranmaneshAli_421/issues"
+  },
+  "homepage": "https://github.com/Aliiiranmanesh/IranmaneshAli_421#readme"
+}
